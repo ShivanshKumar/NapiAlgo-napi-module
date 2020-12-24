@@ -1,0 +1,24 @@
+{
+  "name": "napialgo-napi-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivanshKumar/NapiAlgo-napi-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivanshKumar/NapiAlgo-napi-module/issues"
+  },
+  "homepage": "https://github.com/ShivanshKumar/NapiAlgo-napi-module#readme",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^3.1.0",
+    "node-gyp": "^7.1.2"
+  }
+}
